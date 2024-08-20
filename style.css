@@ -1,0 +1,15 @@
+#imglogo {
+    border-radius: 20px;
+}
+#Cards-de-noticias {
+    display: flex;
+    justify-content: space-around;
+}
+#newsletterdiv {
+    display: flex;
+    justify-content: center;
+}
+#form {
+    display: flex;
+    justify-content: end;
+}
